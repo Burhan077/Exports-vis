@@ -5,7 +5,7 @@ This repository contains an Excel-based data visualization project that explores
 The Finance Bill introduced major policy changes, including:
 
 1. An increase in Value Added Tax (VAT) to 16% of the gross price.
-2. New taxation on imported goods, reshaping trade flows and consumer prices.
+2. New taxation on imported goods, in an effort to increase home grown goods.
 
 These measures together with the political tensions were bound to have an impact on both the domestic and international trade in the country.
 
