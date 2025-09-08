@@ -16,3 +16,4 @@ Through this project, you will find:
 3.Insights into how financial policy directly affects international trade and domestic markets
 
 The goal of this project is to study the effects of various variables can affect the trade of a given country.
+ 
