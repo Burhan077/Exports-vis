@@ -1,5 +1,5 @@
 ## Export-Import Visualization.
-
+ 
 This repository contains an Excel-based data visualization project that explores the landscape of Kenya’s imports and exports in the aftermath of the 2024 Protests and the enactment of the Finance Bill 2024.
 
 The Finance Bill introduced major policy changes, including:
